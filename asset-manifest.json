@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ema-john-react/static/css/main.e6c13ad2.css",
-    "main.js": "/ema-john-react/static/js/main.ad6f7b9a.js",
-    "static/js/787.6ea81cc4.chunk.js": "/ema-john-react/static/js/787.6ea81cc4.chunk.js",
-    "static/media/logo.svg": "/ema-john-react/static/media/logo.311dd846bc480af4fcd81826b6b793a8.svg",
-    "index.html": "/ema-john-react/index.html",
-    "main.e6c13ad2.css.map": "/ema-john-react/static/css/main.e6c13ad2.css.map",
-    "main.ad6f7b9a.js.map": "/ema-john-react/static/js/main.ad6f7b9a.js.map",
-    "787.6ea81cc4.chunk.js.map": "/ema-john-react/static/js/787.6ea81cc4.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.19e23c7b.js",
+    "static/js/787.6ea81cc4.chunk.js": "/static/js/787.6ea81cc4.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.311dd846bc480af4fcd81826b6b793a8.svg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.19e23c7b.js.map": "/static/js/main.19e23c7b.js.map",
+    "787.6ea81cc4.chunk.js.map": "/static/js/787.6ea81cc4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ad6f7b9a.js"
+    "static/js/main.19e23c7b.js"
   ]
 }
