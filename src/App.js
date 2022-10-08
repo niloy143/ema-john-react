@@ -84,7 +84,7 @@ function App() {
         },
         {
           path: '/order-review',
-          element: <OrderReview clearCart={clearCart} summery={summery} />
+          element: <OrderReview clearCart={clearCart} summery={summery} items={items} getDetails={getDetails} />
         },
         {
           path: '/manage-inventory',
@@ -95,6 +95,13 @@ function App() {
           element: <div>This is login</div>
         }
       ]
+    },
+    {
+      path: '/*',
+      element: <div>
+        <Navbar />
+        <h2 className='text-center py-10 text-xl font-semibold'>404! Page is unavailable</h2>
+      </div>
     }
   ]);
   return (
